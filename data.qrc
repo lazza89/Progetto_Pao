@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/alta.png</file>
+        <file>resources/appartamento.png</file>
+        <file>resources/bassa.png</file>
+        <file>resources/camera.png</file>
+        <file>resources/camper.png</file>
+        <file>resources/disabile.png</file>
+        <file>resources/Green.png</file>
+        <file>resources/lavatrice_no.png</file>
+        <file>resources/lavatrice_si.png</file>
+        <file>resources/letto.png</file>
+        <file>resources/logo.png</file>
+        <file>resources/Maintenance.png</file>
+        <file>resources/media.png</file>
+        <file>resources/Red.png</file>
+        <file>resources/suite.png</file>
+    </qresource>
+</RCC>
